@@ -1,19 +1,20 @@
 <!-- HEADER -->
 <div align="center">
 
-# 👨‍💻 Développeur Web & Software  
-### Full-Stack • Cloud • Security
+# 👨‍💻 Bensalem Walid  
+### Développeur Logiciel & Passionné de Cybersécurité
 
-Développeur spécialisé dans la création **d’applications performantes, maintenables et sécurisées**,
-avec un intérêt fort pour le **cloud, les architectures modernes**
-et le **pentesting applicatif**.
+Développeur spécialisé dans la création **d'applications performantes et sécurisées**.  
+Pentest, CTF, et développement web moderne.
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bensalemwalid.vercel.app-8B5CF6?style=for-the-badge)](https://bensalemwalid.vercel.app)
 
 ---
 
 <!-- BADGES PRINCIPAUX -->
-![Status](https://img.shields.io/badge/Availability-Open%20to%20Work-success?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Web%20Dev%20%7C%20Software-blue?style=for-the-badge)
-![Speciality](https://img.shields.io/badge/Speciality-Cloud%20%7C%20Security-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Disponibilité-Open%20to%20Work-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Dev%20Logiciel-blue?style=for-the-badge)
+![Speciality](https://img.shields.io/badge/Passion-Cybersécurité-orange?style=for-the-badge)
 
 </div>
 
@@ -33,7 +34,7 @@ et le **pentesting applicatif**.
 
 ### ⚙️ Outils • DevOps • Cloud
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,kali,vscode,postgres,terraform,kubernetes,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,kali,vscode,postgres,kubernetes,docker" />
 </p>
 
 ### 🔐 Sécurité & Cyber
@@ -51,7 +52,7 @@ et le **pentesting applicatif**.
 
 <div align="center">
 
-### Hack The Box (Retired)
+### Hack The Box
 ![HTB](https://www.hackthebox.com/badge/image/2639218)
 
 ### LeetCode
@@ -92,11 +93,6 @@ et le **pentesting applicatif**.
 - Sécurité applicative & API
 - Cloud Security & best practices
 
-### ☁️ Cloud & Infrastructure
-- Terraform & IaC
-- Kubernetes & containerisation
-- Observabilité, logs & monitoring
-
 ---
 
 ## Axes de Travail
@@ -112,6 +108,7 @@ et le **pentesting applicatif**.
 
 📧 Email : **bensalem.walid.pro@gmail.com**  
 🔗 LinkedIn : **https://www.linkedin.com/in/walid-bensalem-9826612a7/**  
+🌐 Portfolio : **https://bensalemwalid.vercel.app**
 
 ---
 
