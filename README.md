@@ -1,5 +1,5 @@
 # ⚡ Hi, I'm Walid Bensalem
-**Cloud Security & Ingénieur Cybersécurité**
+**Cloud Security & Cybersecurity Engineer**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square)](https://bensalemwalid.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/walid-bensalem-9826612a7/)
@@ -13,7 +13,6 @@
 ## 🧠 LeetCode Solutions
 
 ## 🎯 Hack The Box & Writeups
-
 
 ---
 
