@@ -28,10 +28,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Student at [Epitech](https://www.epitech.eu)** — training towards Cloud Security &amp; Cybersecurity
-- ☁️ Focused on **IaC**, **SecOps automation** &amp; **cloud hardening**
-- 💻 Also open for **web &amp; web app development** projects
-- 🧠 Training daily on **LeetCode** &amp; **HackTheBox**
+- 🎓 **Student at [ESME](https://www.esme.fr/)** — training in cloud security and software development, with cybersecurity as the common thread
+- 🎯 Focused on DevSecOps and cloud security: building secure applications and automating their deployment
+- 🧠 Training on **LeetCode** &amp; **HackTheBox**
 - 🎨 Prototyping with **Figma**
 - 📍 **Lille / Paris** — 🚗 Driver's license &amp; own vehicle
 - 📬 **bensalem.walid.pro@gmail.com**
@@ -43,15 +42,15 @@
 <table width="100%">
   <tr>
     <td width="40%">☁️ <b>Cloud &amp; Infrastructure</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=aws,terraform,vercel" /></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=vercel" /></td>
   </tr>
   <tr>
     <td>🔐 <b>SecOps &amp; Automation</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=ansible,docker,kubernetes" /></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=docker" /></td>
   </tr>
   <tr>
     <td>⚙️ <b>CI/CD</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=githubactions,jenkins" /></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=githubactions" /></td>
   </tr>
   <tr>
     <td>🗃️ <b>Databases</b></td>
@@ -59,7 +58,7 @@
   </tr>
   <tr>
     <td>🖥️ <b>Frontend</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=nextjs,ts,html,css" /></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=nextjs,ts" /></td>
   </tr>
   <tr>
     <td>🗄️ <b>Backend</b></td>
