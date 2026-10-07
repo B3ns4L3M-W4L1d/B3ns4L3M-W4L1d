@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td>🔐 <b>SecOps &amp; Automation</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=docker" /></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=docker,jenkins" /></td>
   </tr>
   <tr>
     <td>⚙️ <b>CI/CD</b></td>
@@ -71,6 +71,10 @@
   <tr>
     <td>🎨 <b>Design &amp; Prototyping</b></td>
     <td align="right"><img src="https://skillicons.dev/icons?i=figma" /></td>
+  </tr>
+  <tr>
+    <td><b>Learning </b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=ansible,terraform,kubernetes" /></td>
   </tr>
 </table>
 
