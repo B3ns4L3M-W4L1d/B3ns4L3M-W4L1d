@@ -2,8 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=200&amp;color=0:0F2027,100:2C5364&amp;text=Walid%20Bensalem&amp;textBg=false&amp;fontColor=FFFFFF&amp;fontSize=42&amp;fontAlignY=36&amp;animation=fadeIn&amp;desc=Cloud%20Security%20and%20Cybersecurity%20Engineer&amp;descSize=18&amp;descAlignY=56" width="100%"/>
 
+
 <a href="https://bensalemwalid.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Cloud+Security+%26+Cybersecurity+Engineer;Terraform+%7C+AWS+%7C+Kubernetes+%7C+Ansible;Web+%26+App+Development+Services+Available;Active+on+LeetCode+%F0%9F%A7%A9+and+HackTheBox+%F0%9F%A6%8A;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00D9FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Engineering+Student+at+ESME+%7C+Apprenticeship+2026-2029;DevOps+%7C+DevSecOps+%7C+Full-Stack+%7C+Cybersecurity;Docker+%7C+Jenkins+%7C+Ansible+%7C+Next.js;Looking+for+a+3-year+apprenticeship+-+available+now;Active+on+LeetCode+%F0%9F%A7%A9+and+HackTheBox+%F0%9F%A6%8A" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,12 +29,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Student at [ESME](https://www.esme.fr/)** — training in cloud security and software development, with cybersecurity as the common thread
-- 🎯 Focused on DevSecOps and cloud security: building secure applications and automating their deployment
+- 🎓 **Engineering student at [ESME](https://www.esme.fr/)** (apprenticeship track, 2026-2029, major in Information Systems Engineering and Management), after a Bachelor at **Epitech Lille** (2023-2026)
+- 🎯 **Looking for a 3-year apprenticeship (alternance), available immediately** — open to DevOps, DevSecOps, full-stack development and cybersecurity roles
 - 🧠 Training on **LeetCode** &amp; **HackTheBox**
-- 🎨 Prototyping with **Figma**
 - 📍 **Lille / Paris** — 🚗 Driver's license &amp; own vehicle
 - 📬 **bensalem.walid.pro@gmail.com**
+
+---
+
+## 🏆 Competitions &amp; Certifications
+
+- 🥇 **Hack The Box University CTF 2025**: Top 11 worldwide, Top 3 France (team SimianSec, Epitech)
+- 🥇 **EC2 CTF, Forum InCyber 2026**: Top 7 out of 21 teams
+- 📜 **In progress**: AWS Academy Cloud Architecting, AWS Academy Cloud Security Foundations, HTB CPTS
 
 ---
 
@@ -41,44 +49,50 @@
 
 <table width="100%">
   <tr>
-    <td width="40%">☁️ <b>Cloud &amp; Infrastructure</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=vercel" /></td>
+    <td width="40%">⚙️ <b>DevOps &amp; CI/CD</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=docker,jenkins,githubactions,ansible,git" /></td>
   </tr>
   <tr>
-    <td>🔐 <b>SecOps &amp; Automation</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=docker,jenkins" /></td>
-  </tr>
-  <tr>
-    <td>⚙️ <b>CI/CD</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=githubactions" /></td>
-  </tr>
-  <tr>
-    <td>🗃️ <b>Databases</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=postgres,supabase" /></td>
+    <td>🐧 <b>Systems</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=linux,bash" /></td>
   </tr>
   <tr>
     <td>🖥️ <b>Frontend</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=nextjs,ts" /></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=nextjs,react,ts" /></td>
   </tr>
   <tr>
     <td>🗄️ <b>Backend</b></td>
     <td align="right"><img src="https://skillicons.dev/icons?i=nodejs,python" /></td>
   </tr>
   <tr>
-    <td>📜 <b>Languages &amp; Scripting</b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=python,c,cpp" /></td>
+    <td>🗃️ <b>Databases</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=postgres,supabase" /></td>
   </tr>
   <tr>
-    <td>🎨 <b>Design &amp; Prototyping</b></td>
+    <td>📜 <b>Languages</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=c,cpp,python,ts" /></td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Design (basics)</b></td>
     <td align="right"><img src="https://skillicons.dev/icons?i=figma" /></td>
   </tr>
   <tr>
-    <td><b>Learning </b></td>
-    <td align="right"><img src="https://skillicons.dev/icons?i=ansible,terraform,kubernetes" /></td>
+    <td>📚 <b>Learning</b></td>
+    <td align="right"><img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws" /></td>
   </tr>
 </table>
 
 ---
+
+<!--
+## 🚀 Projects
+
+Uncomment this block once the Whanos repository is public with a clean README.
+
+- **[Whanos](https://github.com/B3ns4L3M-W4L1d/REPLACE_WITH_REPO_NAME)** — DevOps platform rebuilt from an Epitech project (in progress): Jenkins + Docker pipeline (language detection, image build, registry publishing, automated deployment), infrastructure provisioning with Ansible playbooks and roles, Kubernetes deployment through manifests.
+
+---
+-->
 
 ## 📊 GitHub Stats
 
@@ -93,13 +107,6 @@
   <img width="60%" src="https://streak-stats.demolab.com/?user=B3ns4L3M-W4L1d&amp;theme=dark&amp;hide_border=true&amp;background=0F2027&amp;ring=00D9FF&amp;fire=00D9FF" alt="GitHub Streak" />
 </div>
 
----
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=B3ns4L3M-W4L1d&amp;theme=react-dark&amp;hide_border=true&amp;area=true&amp;color=00D9FF&amp;line=00D9FF&amp;point=FFFFFF" width="100%" alt="Activity Graph" />
-</div>
 
 ---
 
