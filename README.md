@@ -97,14 +97,14 @@ Uncomment this block once the Whanos repository is public with a clean README.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=B3ns4L3M-W4L1d&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;count_private=true&amp;bg_color=0F2027&amp;title_color=00D9FF&amp;icon_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=B3ns4L3M-W4L1d&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0F2027&amp;title_color=00D9FF" alt="Top Languages" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=B3ns4L3M-W4L1d&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0F2027&title_color=00D9FF&icon_color=00D9FF&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=B3ns4L3M-W4L1d&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;langs_count=8&amp;bg_color=0F2027&amp;title_color=00D9FF&amp;cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=B3ns4L3M-W4L1d&amp;theme=dark&amp;hide_border=true&amp;background=0F2027&amp;ring=00D9FF&amp;fire=00D9FF" alt="GitHub Streak" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=B3ns4L3M-W4L1d&amp;theme=dark&amp;hide_border=true&amp;background=0F2027&amp;ring=00D9FF&amp;fire=00D9FF&amp;v=2" alt="GitHub Streak" />
 </div>
 
 
